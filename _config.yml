@@ -4,7 +4,7 @@ theme: minima
 
 
 # Site Settings
-title: Philipp Lang - Data Science
+title: Philipp Lang
 author:
   name: GitHub User
   email: your-email@domain.com
@@ -13,6 +13,8 @@ description: >
 
 header_pages:
   - about.md
+
+show_excerpts: false
 
 minima:
   date_format: "%b %-d, %Y"
