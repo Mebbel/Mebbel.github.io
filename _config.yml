@@ -1,1 +1,16 @@
-theme: jekyll-theme-slate
+title: Philipp Lang - Data Science
+description: >-
+  This is my first try.
+
+
+theme: minima
+
+minima:
+  skin: dark
+
+header_pages:
+  - about.md
+
+author:
+  name: Philipp Lang
+  email: "info@langphilipp.com"
