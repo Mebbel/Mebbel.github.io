@@ -5,13 +5,18 @@ theme: minima
 
 # Site Settings
 title           : Philipp Lang - Data Science
-description     : This is my first try.
-locale          : "en-US"   
-
-
-header_pages:
-  - about.md
-
 author:
   name: Philipp Lang
-  email: "info@langphilipp.com"
+  email: info@langphilipp.com
+description     : >
+  This is my websites descriptions. it can be very long. And will spread several lines. So let's be a bit chatty.
+
+minima:
+  date_format: "%b %-d, %Y"
+
+  # Social links in footer
+  social_links:
+    github: Mebbel
+
+
+
