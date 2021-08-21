@@ -1,12 +1,13 @@
-title: Philipp Lang - Data Science
-description: >-
-  This is my first try.
 
-
+# Theme Settings
 theme: minima
 
-minima:
-  skin: dark
+
+# Site Settings
+title           : Philipp Lang - Data Science
+description     : This is my first try.
+locale          : "en-US"   
+
 
 header_pages:
   - about.md
