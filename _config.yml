@@ -4,12 +4,15 @@ theme: minima
 
 
 # Site Settings
-title           : Philipp Lang - Data Science
+title: Philipp Lang - Data Science
 author:
-  name: Philipp Lang
-  email: info@langphilipp.com
-description     : >
+  name: GitHub User
+  email: your-email@domain.com
+description: >
   This is my websites descriptions. it can be very long. And will spread several lines. So let's be a bit chatty.
+
+header_pages:
+  - about.md
 
 minima:
   date_format: "%b %-d, %Y"
@@ -17,6 +20,11 @@ minima:
   # Social links in footer
   social_links:
     github: Mebbel
+
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
 
 
 
