@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Philipp Lang"
-subtitle: DS
+subtitle: "Data Science Consultant"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -24,6 +24,10 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
 search: true
+
+header:
+  teaser: /assets/images/Blauen_Panorama.jpg
+
 
 # Build settings
 markdown: kramdown
