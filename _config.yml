@@ -28,6 +28,7 @@ search: true
 header:
   teaser: /assets/images/Blauen_Panorama.jpg
 
+logo: /assets/images/Logo_small.png
 
 # Build settings
 markdown: kramdown
