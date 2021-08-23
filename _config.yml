@@ -1,8 +1,9 @@
 
 # Theme Settings
-remote_theme: "mmistakes/minimal-mistakes" # https://github.com/mmistakes/minimal-mistakes #@4.24.0
+remote_theme: mmistakes/minimal-mistakes # https://github.com/mmistakes/minimal-mistakes #@4.24.0
 
 minimal_mistakes_skin: "dirt" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+search: true
 
 
 # Site Settings
@@ -15,26 +16,11 @@ description: >
 logo: "/assets/images/Logo_small.png"
 masthead_title: "My Custom Title"
 
+# twitter_username:
+github_username: Mebbel
+
 
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-
-
-header_pages:
-  - about.md
-
-show_excerpts: false
-
-minima:
-  date_format: "%b %-d, %Y"
-
-  # Social links in footer
-  social_links:
-    github: Mebbel
-
-
-plugins:
- - jekyll-feed
- - jekyll-seo-tag
 
 
 
