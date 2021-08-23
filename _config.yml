@@ -1,6 +1,6 @@
 
 # Theme Settings
-theme: minimal-mistakes # https://github.com/mmistakes/minimal-mistakes
+remote_theme: mmistakes/minimal-mistakes # https://github.com/mmistakes/minimal-mistakes
 
 minimal_mistakes_skin: "dirt" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
