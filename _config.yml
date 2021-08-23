@@ -26,7 +26,7 @@ minimal_mistakes_skin: default
 search: true
 
 header:
-  teaser: /assets/images/Blauen_Panorama.jpg
+  image: /assets/images/Blauen_Panorama.jpg
 
 logo: /assets/images/Logo_small.png
 
