@@ -8,6 +8,7 @@ header:
   #  - label: "More Info"
   #   url: "www.langphilipp.com"
 
+author_profile: true
 ---
 
 The speed of wind, the change of weather conditions and the balance of your accounts. These are all individual facts that can be collected and stored as data. Data is created every minute and every second. Always faster and more.

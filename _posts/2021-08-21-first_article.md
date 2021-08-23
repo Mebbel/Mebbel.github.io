@@ -1,15 +1,21 @@
 ---
 layout: posts
 title: "Analyzing product ingredients"
-categories: data cleaning nlp regex
+categories: data
 ---
 
-Product ingredients 
+# Analyzing product ingredients
 
-Product database
+blablabla
 
-Cleaning
+## Product ingredients 
+blablabla
 
+## Product database
+blablabla
+
+## Cleaning
+blablabla
 
 Structure
 
