@@ -1,7 +1,18 @@
 ---
 layout: post
-title: "Some articles to test this out."
-categories: misc
+title: "Analyzing product ingredients"
+categories: data cleaning nlp regex
 ---
 
-Lorem ipsum and stuff, you know.
+Product ingredients 
+
+Product database
+
+Cleaning
+
+
+Structure
+
+German way of "Wortstamm" vs ...
+
+How to setup a simple regex "prefix" + ".." + "worstatamm" + ".." + "suffix"
