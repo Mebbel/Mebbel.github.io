@@ -1,3 +1,15 @@
+---
+excerpt: "This post should [...]"
+header:
+  overlay_image: /assets/images/Blauen_Panorama.jpg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  caption: "Photo credit"
+  actions:
+    - label: "More Info"
+      url: "www.langphilipp.com"
+
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Mebbel/Mebbel.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
