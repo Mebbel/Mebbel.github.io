@@ -94,6 +94,8 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
+author_profile: true
+
 defaults:
   # _posts
   - scope:
