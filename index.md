@@ -1,5 +1,5 @@
 ---
-excerpt: "
+excerpt: "Test"
 header:
   overlay_image: /assets/images/Blauen_Panorama.jpg
   overlay_filter: 0.5
@@ -9,10 +9,6 @@ header:
   #   url: "www.langphilipp.com"
 
 ---
-
-## Philipp Lang - Data Science
-
-
 
 The speed of wind, the change of weather conditions and the balance of your accounts. These are all individual facts that can be collected and stored as data. Data is created every minute and every second. Always faster and more.
 
