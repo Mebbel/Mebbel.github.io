@@ -1,13 +1,6 @@
 ---
-layout: page
-title: About
 permalink: /about/
+title: "About"
 ---
 
-## Welcome to about
-
-I am blablabl and I do blabalbal
-
-### Hello there
-
-Very much welcome.
+About - blablabala
