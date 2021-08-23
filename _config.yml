@@ -1,15 +1,23 @@
 
 # Theme Settings
-theme: minima
+theme: minimal-mistakes-jekyll # https://github.com/mmistakes/minimal-mistakes
+
+minimal_mistakes_skin: "dirt" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
 
 # Site Settings
 title: Philipp Lang
-author:
-  name: GitHub User
-  email: your-email@domain.com
+subtitle: Data Science Consultant
+name: Philipp Lang
+email: your-email@domain.com
 description: >
   This is my websites descriptions. it can be very long. And will spread several lines. So let's be a bit chatty.
+logo: "/assets/images/Logo_small.png"
+masthead_title: "My Custom Title"
+
+
+# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+
 
 header_pages:
   - about.md
