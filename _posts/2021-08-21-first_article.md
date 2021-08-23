@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Analyzing product ingredients"
 categories: data cleaning nlp regex
 ---
