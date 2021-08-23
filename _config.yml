@@ -26,7 +26,8 @@ minimal_mistakes_skin: default
 search: true
 
 header:
-  image: /assets/images/Blauen_Panorama.jpg
+  overlay_image: /assets/images/Blauen_Panorama.jpg
+  overlay_filter: 0.5 
 
 logo: /assets/images/Logo_small.png
 
