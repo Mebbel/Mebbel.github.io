@@ -1,24 +1,28 @@
 ---
 layout: posts
-title: "Analyzing product ingredients"
+title: "Text Analysis: Food ingredients"
 categories: data
 ---
 
-# Analyzing product ingredients
+# Analyzing food ingredients
 
 blablabla
 
-## Product ingredients 
+## Food ingredients 
 blablabla
 
-## Product database
+## Database
 blablabla
 
 ## Cleaning
 blablabla
 
-Structure
+## Analyze
 
 German way of "Wortstamm" vs ...
 
 How to setup a simple regex "prefix" + ".." + "worstatamm" + ".." + "suffix"
+
+## Conclusion
+
+blablabla ... i learned something.
