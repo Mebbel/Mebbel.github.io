@@ -11,8 +11,10 @@ header:
 author_profile: true
 ---
 
-The speed of wind, the change of weather conditions and the balance of your accounts. These are all individual facts that can be collected and stored as data. Data is created every minute and every second. Always faster and more.
+Learning is an endless yet fulfilling journey. 
+In today’s world, technical progress produces knowledge faster than before. 
+To be on top of a specific topic takes lifelong study. New topics, niches and trends appear steadily. 
+If you have missed a trend it is a long and hard way to get to the knowledge frontier. 
+But not trying to get there is equivalent to giving up. Yet giving up is out of question.
 
-This growing data availability provides infinite opportunities to discover new insights. Your company’s new product could be just a data analysis away. So could be your competitive advantage. There is more to your company’s data than you think.
-
-I will assist you in any of the steps of your data project. Please get in touch: info@langphilipp.com
+I will update this blog regularly with posts of my progress and new analyses. Feel free to follow and comment.
