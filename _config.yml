@@ -79,6 +79,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Mebbel"
+    - label: "DataCamp"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.datacamp.com/profile/PhilippLang"
 
 
 footer:
