@@ -68,7 +68,7 @@ plugins:
 author:
   name   : "Philipp Lang"
   avatar : "/assets/images/Picture_blurred_V2.png"
-  bio    : "Credit Risk & Private Markets & Data Science"
+  bio    : "Data Science and Investing"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
