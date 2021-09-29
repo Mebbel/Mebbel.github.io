@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 twitter_username: username
-github_username: username
+github_username: Mebbel
 minimal_mistakes_skin: default
 search: true
 
@@ -73,22 +73,19 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://langphilipp.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Mebbel"
     - label: "DataCamp"
       icon: "fas fa-fw fa-link"
       url: "https://www.datacamp.com/profile/PhilippLang"
+    - label: "LeetCode"
+      icon: "fas fa-fw fa-link"
+      url: "https://leetcode.com/Meppel90/"
 
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Mebbel"
