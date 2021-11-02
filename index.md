@@ -7,12 +7,11 @@ header:
 author_profile: true
 ---
 
-Driven by passion for data analytics, 
-I am determined to constantly extend my knowledge and gain new experiences.
+Self-taught coder working on projects in finance and data analytics. 
 
-Drop by for regular updates and new posts. 
+Drop by for updates and new posts. They are coming, I promise.
 
-
+In the meantime, feel free to drop me a message.
 
 
 
