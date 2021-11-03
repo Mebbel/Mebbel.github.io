@@ -70,6 +70,9 @@ author:
   avatar : "/assets/images/Picture_blurred_V2.png"
   bio    : "Data Science and Investing"
   links:
+    - label: "Mail"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:info@langphilipp.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://langphilipp.com"
