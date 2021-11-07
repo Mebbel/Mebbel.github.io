@@ -87,11 +87,11 @@ author:
       url: "https://leetcode.com/Meppel90/"
 
 
-footer:
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/Mebbel"
+#footer:
+#  links:
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/Mebbel"
 
 defaults:
   # _posts
