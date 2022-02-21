@@ -85,7 +85,7 @@ For details on how to extract and transform the data, please look at the followi
 # Further reading
 
 For different data, please refer to the respective posts that describe how to prepare them:
-* Positions (*in development*)
+* Holdings (*in development*)
 * Prices (*tbd*)
 * Distributions (*tbd*)
 * Statistics (*tbd*)
