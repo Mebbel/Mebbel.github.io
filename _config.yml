@@ -39,9 +39,8 @@ permalink: /:categories/:title/
 # paginate_path: /page:num/
 # timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-# include:
-#   - _posts
-#   # - _pages
+include:
+  - _pages
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -64,6 +63,10 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+atom_feed:
+  hide: true
+
+
 author:
   name   : "Philipp Lang"
   avatar : "/assets/images/Picture_blurred_V2.png"
@@ -84,6 +87,13 @@ author:
     - label: "LeetCode"
       icon: "fas fa-fw fa-code"
       url: "https://leetcode.com/Meppel90/"
+
+footer:
+  links:
+    - label: "Impressum"
+      url: "/impressum/"
+    - label: "Datenschutzerklärung"
+      url: "/datenschutz/"
 
 
 defaults:
@@ -110,6 +120,13 @@ defaults:
       comments: false
       sidebar:
         nav: "pomato"
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: false
 
 
 
@@ -117,6 +134,9 @@ collections:
   pomato:
     output: true
     permalink: /:collection/:path/
+
+
+
 
 
 # category_archive:
