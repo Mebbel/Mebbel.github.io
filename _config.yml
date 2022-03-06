@@ -120,6 +120,18 @@ defaults:
       comments: false
       sidebar:
         nav: "pomato"
+  # _games
+  - scope:
+      path: ""
+      type: games
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "games"
   # _pages
   - scope:
       path: ""
@@ -132,6 +144,9 @@ defaults:
 
 collections:
   pomato:
+    output: true
+    permalink: /:collection/:path/
+  games:
     output: true
     permalink: /:collection/:path/
 

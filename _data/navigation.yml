@@ -4,7 +4,18 @@ main:
   #   url: /year-archive/
   - title: "PortfolioRisks"
     url: /overview/
+  - title: "Games"
+    url: /overview_games/
 
+games:
+  - title: "Games and Riddles"
+    children:
+      - title: "Overview"
+        url: /overview_games/
+  - title: Combinatorics
+    children:
+      - title: "Pool Triangle"
+        url: /games_triangle_pool/
 
 
 pomato:
