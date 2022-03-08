@@ -27,7 +27,7 @@ pomato:
     children:
       - title: "Overview"
         url: /data_overview/
-      - title: "Holdings (tbd)"
+      - title: "Holdings"
         url: /data_holdings/
       - title: "Prices (tbd)"
         url:
