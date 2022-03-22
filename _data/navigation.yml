@@ -16,6 +16,8 @@ games:
     children:
       - title: "Pool Triangle"
         url: /games_triangle_pool/
+      - title: "Sudoku"
+        url: /games_sudoku_solver/
 
 
 pomato:
@@ -68,6 +70,7 @@ pomato:
 #       - title: "JavaScript"
 #         url: /docs/javascript/
 #   - title: Meta
+
 #     children:
 #       - title: "History"
 #         url: /docs/history/
