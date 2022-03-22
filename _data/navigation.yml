@@ -18,6 +18,10 @@ games:
         url: /games_triangle_pool/
       - title: "Sudoku"
         url: /games_sudoku_solver/
+  - title: Probability
+    children:
+      - title: "Craps"
+        url: /games_craps/
 
 
 pomato:

@@ -16,10 +16,12 @@ classes: wide
 
 ## Combinatorics
 
-* [(Pool Game)](/games_triangle_pool/) - Arrangement of balls in triangle under relational conditions
-* [(Sudoku)](/games_sudoku_solver/) - Solve Sudoku puzzles with backtracking
+* [(Pool Game)](/games_triangle_pool/) - Arrangement of balls in a triangle with relational conditions
+* [(Sudoku)](/games_sudoku_solver/) - Solving Sudoku puzzles with backtracking
 
+## Probability
 
+* [(Craps)](/games_craps/) - A dice game with possible infinite number of rounds
 
 
 

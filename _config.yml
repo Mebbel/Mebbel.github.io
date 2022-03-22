@@ -42,6 +42,9 @@ permalink: /:categories/:title/
 include:
   - _pages
 
+kramdown:
+  math_engine: mathjax
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
