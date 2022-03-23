@@ -60,7 +60,7 @@ For the European funds, there appear to be two subgroups. One is closer to the U
 
 ## Data-driven clusters
 
-The visualization showed that the manual assignment of topics word well. For a purely data-driven approach, we will apply a kMeans clustering algorithm.
+The visualization showed that the manual assignment of topics works well. For a purely data-driven approach, we will apply a kMeans clustering algorithm.
 
 This method of unsupervised learning partitions the data set into a predefined number of distinct clusters by minimizing the within-cluster variance on a measure of distance. For this analysis, the distance measure will be the sum of common portfolio weight, as defined and analyzed further above.
 
