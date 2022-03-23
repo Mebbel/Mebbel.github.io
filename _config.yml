@@ -84,6 +84,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Mebbel"
+    - label: "LinkedIn"
+      icon: "fa-brands fa-linkedin"
+      url: https://www.linkedin.com/in/langphilipp/
     - label: "DataCamp"
       icon: "fas fa-fw fa-user-graduate"
       url: "https://www.datacamp.com/profile/PhilippLang"
