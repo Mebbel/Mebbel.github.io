@@ -41,6 +41,8 @@ I am available for hire and keen to discuss any projects. Feel free to drop me a
 
 Making it easy for every investor to uncover portfolio risks in ETF-focused investment portfolios. Development of an extensive database and easy-to-use analysis tools.
 
+![kMeans wordcloud](/assets/images/C010_Simi_Cluster.png)
+
 ### Games and Riddles [(link)](/overview_games/)
 
 Collection of algorithmic solutions to games and mathematical riddles. I am open to suggestions about new riddles and extensions.
