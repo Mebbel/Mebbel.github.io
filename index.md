@@ -47,5 +47,6 @@ Making it easy for every investor to uncover portfolio risks in ETF-focused inve
 
 Collection of algorithmic solutions to games and mathematical riddles. I am open to suggestions about new riddles and extensions.
 
+![Sudoku Solver](/assets/images/Sudoku_Animation_small.gif)
 
 

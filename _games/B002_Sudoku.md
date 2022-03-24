@@ -43,6 +43,8 @@ For all empty fields in the grid, try:
 *(See the code at the end of the post)*
 
 
+![Sudoku Solver](/assets/images/Sudoku_Animation_small.gif)
+
 
 ## Code
 
