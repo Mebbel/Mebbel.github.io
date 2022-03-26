@@ -3,7 +3,7 @@
 title: "Uncovering hidden risks in ETF-Portfolios"
 # author: "Philipp Lang"
 # is_post: true
-permalink: /overview/
+permalink: /introduction/
 # categories: Portfolio_Risk
 # tags: [Investing, Data, PortfolioManagement]
 toc: false

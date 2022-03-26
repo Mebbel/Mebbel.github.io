@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "PortfolioRisks"
-    url: /overview/
+    url: /introduction/
   - title: "Games"
     url: /overview_games/
 
@@ -25,8 +25,8 @@ games:
 pomato:
   - title: Portfolio Risks
     children:
-      - title: "Overview"
-        url: /overview/
+      - title: "Introduction"
+        url: /introduction/
   - title: Data
     children:
       - title: "Overview"
@@ -35,8 +35,8 @@ pomato:
         url: /data_holdings/
       - title: "Prices (tbd)"
         url:
-      - title: "Distributions (tbd)"
-        url:
+      - title: "Distributions"
+        url: /data_distributions/
       - title: "Statistics (tbd)"
         url:
   - title: Analysis

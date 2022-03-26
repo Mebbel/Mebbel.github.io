@@ -37,7 +37,7 @@ I am available for hire and keen to discuss any projects. Feel free to drop me a
 ## Public projects:
 
 
-### Uncovering hidden risks in ETF-Portfolios [(link)](/overview/)
+### Uncovering hidden risks in ETF-Portfolios [(link)](/introduction/)
 
 Making it easy for every investor to uncover portfolio risks in ETF-focused investment portfolios. Development of an extensive database and easy-to-use analysis tools.
 
