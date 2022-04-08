@@ -33,8 +33,8 @@ pomato:
         url: /data_overview/
       - title: "Holdings"
         url: /data_holdings/
-      - title: "Prices (tbd)"
-        url:
+      - title: "Prices"
+        url: /data_prices/
       - title: "Distributions"
         url: /data_distributions/
       - title: "Statistics (tbd)"
