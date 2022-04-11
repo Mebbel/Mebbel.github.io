@@ -23,6 +23,6 @@ classes: wide
 
 * [(Craps)](/games_craps/) - A dice game with possible infinite number of rounds
 
+## Operations Research
 
-
-
+* [(Weekend Trip to Paris)](/games_weekendtrips/) - Find optimal routes to visit places in Paris with Google OR-Tools

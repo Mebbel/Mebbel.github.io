@@ -20,6 +20,10 @@ games:
     children:
       - title: "Craps"
         url: /games_craps/
+  - title: Operations Research
+    children:
+      - title: "Weekend trip to Paris"
+        url: /games_weekendtrips/
 
 
 pomato:
