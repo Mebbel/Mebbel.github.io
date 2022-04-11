@@ -8,7 +8,7 @@ classes: wide
 
 ---
 
-I love travelling to new cities and places. There is always so many new places to explore. With larger cities, the list of places usually gets very long. Too long to plan the trip efficiently myself. And finding an optimal way to visit as many places as possible is an almost impossible task.
+I love travelling to new cities and places. There is always so many new places to explore. With larger cities, the list of places usually gets very long. It takes too long to plan the trip efficiently myself. And finding an optimal way to visit as many places as possible is an almost impossible task.
 
 When planning my trips by hand, I usually start by collecting all the places I want to visit. For a trip to Paris, this list is quite extensive and will have well beyond 20 locations. 
 
