@@ -90,9 +90,7 @@ author:
     - label: "DataCamp"
       icon: "fas fa-fw fa-user-graduate"
       url: "https://www.datacamp.com/profile/PhilippLang"
-    - label: "LeetCode"
-      icon: "fas fa-fw fa-code"
-      url: "https://leetcode.com/Meppel90/"
+
 
 footer:
   links:
