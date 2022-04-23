@@ -1,8 +1,8 @@
 # main links
 main:
-  - title: "PortfolioRisks"
-    url: /introduction/
-  - title: "Games"
+  - title: "PoMaTo"
+    url: /dashboard/
+  - title: "Misc"
     url: /overview_games/
 
 games:
