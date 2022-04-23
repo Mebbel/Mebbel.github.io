@@ -16,6 +16,8 @@ Common route planning tools usually limit the number of places to 10. That is no
 
 With all our technology at hand, wouldn't it be nice, if a machine could solve this problem? So that we can spend more time travelling and less time planning?
 
+**Code**: You can find the accompanying Jupyter Notebook on my [github](https://github.com/Mebbel/Games/blob/main/TravelingTourist.ipynb){:target="_blank"}
+
 
 ## Operations Research
 

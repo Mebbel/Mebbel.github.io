@@ -29,6 +29,8 @@ games:
 pomato:
   - title: Portfolio Risks
     children:
+      - title: "Dashboard"
+        url: /dashboard/
       - title: "Introduction"
         url: /introduction/
   - title: Data
@@ -41,8 +43,6 @@ pomato:
         url: /data_prices/
       - title: "Distributions"
         url: /data_distributions/
-      - title: "Statistics (tbd)"
-        url:
   - title: Analysis
     children:
       - title: "Similarity"

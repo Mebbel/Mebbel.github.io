@@ -37,16 +37,18 @@ I am available for hire and keen to discuss any projects. Feel free to drop me a
 ## Public projects:
 
 
-### Uncovering hidden risks in ETF-Portfolios [(link)](/introduction/)
+### Uncovering hidden risks in ETF-Portfolios [(link)](/dashboard/)
 
-Making it easy for every investor to uncover portfolio risks in ETF-focused investment portfolios. Development of an extensive database and easy-to-use analysis tools.
+Open-to-public development of an **Po**rtfolio **Ma**nagement **To**ol. Making it easy for every investor to uncover portfolio risks in ETF-focused investment portfolios. Development of an extensive database and easy-to-use analysis tools.
 
-![kMeans wordcloud](/assets/images/C010_Simi_Cluster.png)
+[![kMeans wordcloud](/assets/images/C010_Simi_Cluster.png){: style="width: 49%;"}](/analysis_similarity/)
+[![Diversification by Region](/assets/images/dashboard_diversification_doughnut.png){: style="width: 49%;"}](/dashboard/)
 
-### Games and Riddles [(link)](/overview_games/)
+### Games, Riddles and other small projects [(link)](/overview_games/)
 
-Collection of algorithmic solutions to games and mathematical riddles. I am open to suggestions about new riddles and extensions.
+Collection of algorithmic solutions to games, mathematical riddles and other small projects. I am open to suggestions about new riddles and extensions.
 
-![Sudoku Solver](/assets/images/Sudoku_Animation_small.gif)
+[![Sudoku Solver](/assets/images/Sudoku_Animation_small.gif){: style="width: 49%;"}](/games_sudoku_solver/)
+[![Map of optimal solution](/assets/images/Paris_small.png){: style="width: 49%;"}](/games_weekendtrips/)
 
 
