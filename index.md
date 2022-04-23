@@ -39,7 +39,7 @@ I am available for hire and keen to discuss any projects. Feel free to drop me a
 
 ### Uncovering hidden risks in ETF-Portfolios [(link)](/dashboard/)
 
-Open-to-public development of an **Po**rtfolio **Ma**nagement **To**ol. Making it easy for every investor to uncover portfolio risks in ETF-focused investment portfolios. Development of an extensive database and easy-to-use analysis tools.
+Open-to-public development of a **Po**rtfolio **Ma**nagement **To**ol. Making it easy for every investor to uncover portfolio risks in ETF-focused investment portfolios. Development of an extensive database and easy-to-use analysis tools.
 
 [![kMeans wordcloud](/assets/images/C010_Simi_Cluster.png){: style="width: 49%;"}](/analysis_similarity/)
 [![Diversification by Region](/assets/images/dashboard_diversification_doughnut.png){: style="width: 49%;"}](/dashboard/)
