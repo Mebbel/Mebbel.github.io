@@ -27,7 +27,7 @@ games:
 
 
 pomato:
-  - title: Portfolio Risks
+  - title: Portfolio Manamgent Tool
     children:
       - title: "Dashboard"
         url: /dashboard/
@@ -45,5 +45,7 @@ pomato:
         url: /data_distributions/
   - title: Analysis
     children:
-      - title: "Similarity"
+      - title: "Similarity of ETF-Products"
         url: /analysis_similarity/
+      - title: "Forecast of Distributions - TopDown"
+        url: /analysis_predictdistributions_topdown/

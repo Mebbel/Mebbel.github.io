@@ -41,8 +41,11 @@ I am available for hire and keen to discuss any projects. Feel free to drop me a
 
 Open-to-public development of a **Po**rtfolio **Ma**nagement **To**ol. Making it easy for every investor to uncover portfolio risks in ETF-focused investment portfolios. Development of an extensive database and easy-to-use analysis tools.
 
+
+[![Diversification by Region](/assets/images/dashboard_diversification_doughnut.png){: style="width: 49%;"}](/dashboard/) 
+[![Predict Out of Sample](/assets/images/predict_dist_topdown_predict_outofsample.png){: style="width: 49%;"}](/analysis_predictdistributions_topdown/)
 [![kMeans wordcloud](/assets/images/C010_Simi_Cluster.png){: style="width: 49%;"}](/analysis_similarity/)
-[![Diversification by Region](/assets/images/dashboard_diversification_doughnut.png){: style="width: 49%;"}](/dashboard/)
+
 
 ### Games, Riddles and other small projects [(link)](/overview_games/)
 
