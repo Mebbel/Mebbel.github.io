@@ -117,7 +117,7 @@ The model follows a very conservative forecast pattern. It is hesitant to both u
 
 Now, if the backtest delivers okay results, the next point of interest is the performance of the model into future, unknown periods. With a visual inspection we can check, if the model continues the observed trends in out-of-sample periods.
 
-For a random sample of 25 ETF-products, you can find an out-of-sample forecast in the following graphic. The anchor point is 2021 and the forecast spans 5 years until 2026.
+For a random sample of 25 ETF-products, you can find an out-of-sample forecast in the following graphic. The anchor point is 2021 and the forecast spans 4 years until 2026.
 
 For most ETF-products, the forecasts look reasonable. Patterns observed in former periods are continued into the future. Sharp downfalls are followed with 1 or 2 periods delay. And trends are continued.
 
