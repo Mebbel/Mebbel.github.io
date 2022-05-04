@@ -102,15 +102,15 @@ $$
 
 A Random Forest Regressor is a very versatile model. It can handle both level and differences as well as upward and downward trends. With  linear models, we would need to create a lot of interactions or even different models to model complex patterns. That's not feasible for a first model.
 
-In a first step, we transform the dependend variable (Amount of Distributions) with the natural logarithm. For the explaining variables (aka features) we take up to 4 lagged levels and all possible differences between these lagged levels. The optimal model is determined by a gridsearch over different time windows. 
+The dependend variable (Amount of Distributions) remains at the observed levels. For the explaining variables (aka features) we take up to 4 lagged levels, all possible absolute and relative differences between these lagged levels as well as average levels values. The optimal model is determined with a gridsearch. 
 
-For a visual inspection of the results, the following graphic provides some good and bad cases. Each colored line is a multi-year forecast of the distribution from that very point. E.g. the red line forecasts from the 2016 to 2020. Comparing this to the actual data in black, the inefficiencies of the model become apparent.
+For a visual inspection of the results, the following graphic provides some good and bad cases. Each colored line is a multi-year forecast of the distributions from that very point. E.g. the red line forecasts from the year 2016 to 2020. Comparing this to the actual data in black, the inefficiencies of the model become apparent.
 
 ![Predict Top Bottom 5](/assets/images/predict_dist_topdown_predict_top_bottom_5.png)
 
 
 **Observations:**
-The model still has some obvious problems. It tends to reverse on upward trends too early. And in general seems to be hesistant to predict increasing distributions. Maybe this can be fixed with adding a trend feature or first and second derivates as features.
+The model follows a very conservative forecast pattern. It is hesitant to both upward- and downward trends. It follows strongly the most recent observation and fluctuates around the average observed distributions of the last years. These are by not bad properties.
 
 
 ## Out-of-sample Forecast
@@ -127,6 +127,6 @@ For most ETF-products, the forecasts look reasonable. Patterns observed in forme
 
 ## Outlook
 
-The results are a very satisfying starting point. From here on, new models can be tested and compared to the baseline and Random Forest Regressors. Aside from XGBoost and Neural Nets, also more traditional appraoches like SARIMA can be considered.
+The results are a very satisfying starting point. From here on, new models can be tested and compared to the baseline and Random Forest Regressors. Aside from XGBoost and Neural Nets, also more traditional appraoches like SARIMA and linear models (Lasso, Ridge, ElastNet) can be considered.
 
 With more tested models, we need to determine an appropriate error metric to compare the models' performance. Also, as we want to forecast several years into the future, the error metric should be calculated on several predicted data points. Ideally, we find a good model for a prediction of 4 to 5 years into the future.
