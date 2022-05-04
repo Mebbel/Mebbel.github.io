@@ -129,4 +129,4 @@ For most ETF-products, the forecasts look reasonable. Patterns observed in forme
 
 The results are a very satisfying starting point. From here on, new models can be tested and compared to the baseline and Random Forest Regressors. Aside from XGBoost and Neural Nets, also more traditional appraoches like SARIMA and linear models (Lasso, Ridge, ElastNet) can be considered.
 
-With more tested models, we need to determine an appropriate error metric to compare the models' performance. Also, as we want to forecast several years into the future, the error metric should be calculated on several predicted data points. Ideally, we find a good model for a prediction of 4 to 5 years into the future.
+With more tested models, we need to determine an appropriate error metric to compare the models' performance. Also, as we want to forecast several years into the future, the error metric should be calculated on several predicted data points. Ideally, we find a good model for a prediction of 4 to 5 years into the future. And can estimate confidence intervals.
