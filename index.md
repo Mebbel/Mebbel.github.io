@@ -7,7 +7,7 @@ excerpt: >
   Independent Contractor for: <br />
   * Data Science Consulting <br /> 
   * Quantitative Development <br /> 
-  <span style="color:#375623;background-color:#e2efda;border-radius:25px;padding:1px 20px 1px 20px;"> Available for hire </span>
+  <span style="color:#375623;background-color:#F4B084;border-radius:25px;padding:1px 20px 1px 20px;"> Not available for hire </span>
 feature_row:
   - image_path: /assets/images/Smooth_Hist_Plot.png
     alt: "placeholder image 1"
@@ -23,11 +23,11 @@ feature_row:
     #excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 
-Hey there and welcome to my collection of projects in finance and data analytics. I am an independent contractor in the field of data science with a focus on the finance industry.
+Hey there and welcome to my collection of projects in finance and data analytics. I was an independent contractor in the field of data science with a focus on the finance industry.
 
 My tech-stack includes R, Python, Excel, SQL and AWS. 
 
-I am available for hire and keen to discuss any projects. Feel free to drop me a message anytime: info(@)langphilipp.com
+I am currently not available for hire, but keen to discuss any topics. Feel free to drop me a message anytime: info(@)langphilipp.com
 
 ## Services:
 
