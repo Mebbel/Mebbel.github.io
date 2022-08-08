@@ -3,12 +3,6 @@ header:
   overlay_image: /assets/images/Blauen_Panorama.jpg
   overlay_filter: 0.5
 author_profile: true
-excerpt: >
-#  Data Enthusiast: <br />
-  * Alternative Investments <br />
-  * Forecasting   <br />
-  * Quantitative Development <br /> 
- # <span style="color:#375623;background-color:#F4B084;border-radius:25px;padding:1px 20px 1px 20px;"> Not available for hire </span>
 feature_row:
   - image_path: /assets/images/Smooth_Hist_Plot.png
     alt: "placeholder image 1"
