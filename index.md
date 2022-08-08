@@ -4,10 +4,11 @@ header:
   overlay_filter: 0.5
 author_profile: true
 excerpt: >
-  Independent Contractor for: <br />
-  * Data Science Consulting <br /> 
+#  Data Enthusiast: <br />
+  * Alternative Investments <br />
+  * Forecasting   <br />
   * Quantitative Development <br /> 
-  <span style="color:#375623;background-color:#F4B084;border-radius:25px;padding:1px 20px 1px 20px;"> Not available for hire </span>
+ # <span style="color:#375623;background-color:#F4B084;border-radius:25px;padding:1px 20px 1px 20px;"> Not available for hire </span>
 feature_row:
   - image_path: /assets/images/Smooth_Hist_Plot.png
     alt: "placeholder image 1"
@@ -23,11 +24,11 @@ feature_row:
     #excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 
-Hey there and welcome to my collection of projects in finance and data analytics. I was an independent contractor in the field of data science with a focus on the finance industry.
+Hey there and welcome to my collection of projects in finance and data analytics. Recently, I was an independent contractor in the field of data science with a focus on the finance industry. Now, back to full-time employment, I spend my days analysing and forecasting alternative investments.
 
 My tech-stack includes R, Python, Excel, SQL and AWS. 
 
-I am currently not available for hire, but keen to discuss any topics. Feel free to drop me a message anytime: info(@)langphilipp.com
+I am keen to discuss any topics. Feel free to drop me a message anytime: info(@)langphilipp.com
 
 ## Services:
 
