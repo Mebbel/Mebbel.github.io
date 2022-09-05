@@ -18,7 +18,7 @@ feature_row:
     #excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 
-Hey there and welcome to my collection of projects in finance and data analytics. Recently, I was an independent contractor in the field of data science with a focus on the finance industry. Now, back to full-time employment, I spend my days analysing and forecasting alternative investments.
+Hey there and welcome to my private collection of projects in finance and data analytics. I am focused on forecasting financial data of public and private markets. 
 
 My tech-stack includes R, Python, Excel, SQL and AWS. 
 
