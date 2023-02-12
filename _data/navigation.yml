@@ -2,8 +2,10 @@
 main:
   - title: "PoMaTo"
     url: /dashboard/
-  - title: "Misc"
+  - title: "Mixed"
     url: /overview_games/
+  - title: "Other"
+    url: /overview_other/
 
 games:
   - title: "Games and Riddles"

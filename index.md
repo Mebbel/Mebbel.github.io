@@ -18,9 +18,9 @@ feature_row:
     #excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 
-Hey there and welcome to my private collection of projects in finance and data analytics. I am focused on forecasting financial data of public and private markets. 
+Hey there and welcome to my private collection of projects in finance and data analytics. I am a data specialist employed in the private equity industry working on general data analytics and forecasts.
 
-My tech-stack includes R, Python, Excel, SQL and AWS. 
+For most of my projects, I make use of R, Excel and SQL.
 
 I am keen to discuss any topics. Feel free to drop me a message anytime: info(@)langphilipp.com
 
