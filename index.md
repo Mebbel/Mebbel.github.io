@@ -22,7 +22,7 @@ Hey there and welcome to my private collection of projects in finance and data a
 
 For most of my projects, I make use of R, Excel and SQL.
 
-I am keen to discuss any topics. Feel free to drop me a message anytime: info(@)langphilipp.com
+I am keen to discuss any topics. Feel free to drop me a message anytime: lang_philipp(@)outlook.com
 
 ## Interests:
 

@@ -77,7 +77,7 @@ author:
   links:
     - label: "Mail"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:info@langphilipp.com"
+      url: "mailto:lang_philipp@outlook.com"
     - label: "Website"
       icon: "fas fa-fw fa-portrait"
       url: "https://langphilipp.com"
@@ -163,6 +163,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   games:
+    output: true
+    permalink: /:collection/:path/
+  other:
     output: true
     permalink: /:collection/:path/
 
