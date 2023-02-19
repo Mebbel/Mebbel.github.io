@@ -136,6 +136,18 @@ defaults:
       comments: false
       sidebar:
         nav: "games"
+  # _other
+  - scope:
+      path: ""
+      type: other
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "other"
   # _pages
   - scope:
       path: ""

@@ -24,7 +24,7 @@ For most of my projects, I make use of R, Excel and SQL.
 
 I am keen to discuss any topics. Feel free to drop me a message anytime: info(@)langphilipp.com
 
-## Services:
+## Interests:
 
 {% include feature_row %}
 
