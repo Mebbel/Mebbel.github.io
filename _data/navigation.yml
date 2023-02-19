@@ -51,3 +51,9 @@ pomato:
         url: /analysis_similarity/
       - title: "Forecast of Distributions - TopDown"
         url: /analysis_predictdistributions_topdown/
+
+other:
+  - title: Other
+    children:
+      - title: "Overview"
+        url: /overview_other/
