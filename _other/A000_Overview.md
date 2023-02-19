@@ -16,7 +16,7 @@ classes: wide
 
 A small collection of interesting links. None of these are affiliate links!
 
-## Podcasts
+## Podcasts on Spotify
 
 * [Ezra Klein Show](https://open.spotify.com/show/3oB5noYIwEB2dMAREj2F7S){:target="_blank"} (English, News, Technology, Politics)
 * [Exchanges at Goldman Sachs](https://open.spotify.com/show/1T6xOGR2S5tY6bZ7XbpAC3?si=62713a21394b4c64){:target="_blank"} (English, Investing)
@@ -44,8 +44,11 @@ A small collection of interesting links. None of these are affiliate links!
 
 ## Books
 
-### Online
+### R
 
-### Offline
+#### R-Shiny
+* [Engineering Production-Grade Shiny Apps](https://engineering-shiny.org/){:target="_blank"}
+
+
 
 ## Online Courses
