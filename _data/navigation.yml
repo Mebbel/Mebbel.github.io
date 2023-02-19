@@ -4,7 +4,7 @@ main:
     url: /dashboard/
   - title: "Mixed"
     url: /overview_games/
-  - title: "Other"
+  - title: "Links"
     url: /overview_other/
 
 games:
