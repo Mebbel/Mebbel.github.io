@@ -57,3 +57,7 @@ other:
     children:
       - title: "Overview"
         url: /overview_other/
+      - title: "Podcasts"
+        url: /other_podcasts/
+      - title: "Youtube"
+        url: /other_youtube/

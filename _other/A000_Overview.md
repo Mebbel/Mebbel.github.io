@@ -23,32 +23,29 @@ A small collection of interesting links. None of these are affiliate links!
 * [The Foreign Affairs](https://open.spotify.com/show/3vCDodm2QxZXsZFzdv1mPV?si=6c404e88a701474a){:target="_blank"} (English, Politics)
 * [In Good Company with Nicolai Tangen](https://open.spotify.com/show/2r75HRXpsJraJ3Akyo8kSg?si=4819394578a747ce){:target="_blank"} (English, Business, Investing)
 
-
-* [Die Lage der Nation](https://open.spotify.com/show/7a3LWj5xSFhFRYmztS8wgK?si=48b22a26f6244981){:target="_blank"} (German, Politics, News)
-* [Der Tag](https://open.spotify.com/show/7JySWeA3XdcaaFa6AWfnb2?si=9deceac909fb4102){:target="_blank"} (German, Daily News)
-* [Handelsblatt Disrupt](https://open.spotify.com/show/49hcDkCcll6L7gpkmy63Ug?si=32b17d7588c548a0){:target="_blank"} (German, New Technology)
+For more, please look [here](/other_podcasts/)
 
 
 ## Youtube Channels
 
-* [The Plain Bagel](https://www.youtube.com/@ThePlainBagel){:target="_blank"} (English, Investing)
-* [Aswath Damodaran](https://www.youtube.com/@AswathDamodaranonValuation){:target="_blank"} (English, Investing)
-
 * [3Blue1Brown](https://www.youtube.com/@3blue1brown){:target="_blank"} (English, Mathematics)
 * [Numberphile](https://www.youtube.com/@numberphile){:target="_blank"} (English, Mathematics)
+* [Computerphile](https://www.youtube.com/@Computerphile){:target="_blank"} (English, Computer Science)
 * [Two Minute Papers](https://www.youtube.com/@TwoMinutePapers){:target="_blank"} (English, Machine Learning, AI)
 
-* [Sabine Hossenfelder](https://www.youtube.com/@SabineHossenfelder){:target="_blank"} (English, Physics)
-* [Computerphile](https://www.youtube.com/@Computerphile){:target="_blank"} (English, Computer Science)
+For more, please look [here](/other_youtube/)
 
 
-## Books
+## (Online-)Books
 
-### R
+### R (Statistical Package)
 
-#### R-Shiny
+#### General
+* [Advanced R](https://adv-r.hadley.nz/){:target="_blank"}
+* [R for Data Science](https://r4ds.had.co.nz/){:target="_blank"}
+
+
+#### R-Shiny (Web Applications)
 * [Engineering Production-Grade Shiny Apps](https://engineering-shiny.org/){:target="_blank"}
 
 
-
-## Online Courses

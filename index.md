@@ -18,14 +18,11 @@ feature_row:
     #excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 
-Hey there and welcome to my private collection of projects in finance and data analytics. I am a data specialist employed in the private equity industry working on general data analytics and forecasts.
 
-For most of my projects, I make use of R, Excel and SQL.
+Hey there and welcome to my private collection of small projects and ressources. 
+For a brief introduction: I am a data specialist employed at an asset manager for private markets. For most of my time, I apply various data analytics techniques to solve problems. Typical tasks include forecasting various measures, extracting sensible information from different sources of data and presenting the results to different audiences. My curated link of online resources might give you a good idea about my daily tasks and general interests: [(link)](/overview_other/)
 
 I am keen to discuss any topics. Feel free to drop me a message anytime: lang_philipp(@)outlook.com
-
-If you want to know what I am up to, my curated link of online resources might give you a good idea: [(link)](/overview_other/)
-
 
 
 ## Interests:
@@ -54,3 +51,5 @@ Collection of algorithmic solutions to games, mathematical riddles and other sma
 [![Map of optimal solution](/assets/images/Paris_small.png){: style="width: 49%;"}](/games_weekendtrips/)
 
 
+## Resources [(link)](/overview_other/)
+A small, curated list of links that helped me advanced in data analytics and of which many I use almost every day.
