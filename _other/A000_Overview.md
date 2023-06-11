@@ -31,6 +31,7 @@ For more, please look [here](/other_podcasts/)
 * [3Blue1Brown](https://www.youtube.com/@3blue1brown){:target="_blank"} (English, Mathematics)
 * [Numberphile](https://www.youtube.com/@numberphile){:target="_blank"} (English, Mathematics)
 * [Computerphile](https://www.youtube.com/@Computerphile){:target="_blank"} (English, Computer Science)
+* [Machine Learning Street Talk](https://www.youtube.com/@MachineLearningStreetTalk){:target="_blank"} (English,  Machine Learning, AI)
 * [Two Minute Papers](https://www.youtube.com/@TwoMinutePapers){:target="_blank"} (English, Machine Learning, AI)
 
 For more, please look [here](/other_youtube/)
