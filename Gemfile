@@ -2,8 +2,10 @@
 
 source "https://rubygems.org"
 
-gem "github-pages", "~> 223", group: :jekyll_plugins
+gem "github-pages", group: :jekyll_plugins
 gem 'wdm', '>= 0.1.0'
+gem 'liquid', '>= 4.0.4'
+gem 'jekyll-target-blank'
 
 # gem "jekyll"
 

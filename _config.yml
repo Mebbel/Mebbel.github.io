@@ -65,6 +65,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-target-blank
 
 atom_feed:
   hide: true
@@ -78,9 +79,9 @@ author:
     - label: "Mail"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:lang_philipp@outlook.com"
-    - label: "Website"
+    - label: "Travels"
       icon: "fas fa-fw fa-portrait"
-      url: "https://langphilipp.com"
+      url: "https://www.eathappilyeverafter.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Mebbel"
